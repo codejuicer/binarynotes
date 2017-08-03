@@ -7,7 +7,7 @@
 	<groupId>org.codejuicer</groupId>
 	<artifactId>binarynotes</artifactId>
 	<packaging>bundle</packaging>
-	<version>1.6.0-SNAPSHOT</version>
+	<version>1.6.0</version>
 	<name>Java library for ASN1 serialization</name>
 	<url>https://github.com/codejuicer/binarynotes</url>
 	<description>CodeJuicer's Java library for ASN1 serialization</description>
